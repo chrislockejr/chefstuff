@@ -3,20 +3,16 @@
 # Recipe:: default
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
-# Install the apache package
+# Install the nginx package
 
-if node['platform_family'] == "rhel"
-  package = "httpd"
-elsif node['platform_family'] == "debian"
-  package = "apache2"
+if node["platform_family"] == "rhel"
+  package "epel-release"
 end
 
-package 'apache2' do
-  package_name package
+package "nginx" do
   action :install
 end
 
-service 'apache2' do
-  service_name package
+service "nginx" do
   action [:start, :enable]
 end
