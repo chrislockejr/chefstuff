@@ -1,0 +1,7 @@
+DEPENDENCIES
+  server
+    path: .
+    metadata: true
+
+GRAPH
+  server (0.1.0)

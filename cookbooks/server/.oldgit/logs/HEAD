@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 28940aef510325c36ce2bc37817ae559aca334bd Chris Locke <chris.locke.jr@gmail.com> 1546530783 +0000	commit (initial): Add generated cookbook content
+28940aef510325c36ce2bc37817ae559aca334bd 28940aef510325c36ce2bc37817ae559aca334bd Chris Locke <chris.locke.jr@gmail.com> 1546530784 +0000	checkout: moving from master to add-delivery-configuration
+28940aef510325c36ce2bc37817ae559aca334bd fabf1e15d438245323770e72fcfb53a8373980c8 Chris Locke <chris.locke.jr@gmail.com> 1546530784 +0000	commit: Add generated delivery configuration
+fabf1e15d438245323770e72fcfb53a8373980c8 af9cbaf6ecdf49dd6b404910344fdeb8879ad352 Chris Locke <chris.locke.jr@gmail.com> 1546530784 +0000	commit: Add generated delivery build cookbook
+af9cbaf6ecdf49dd6b404910344fdeb8879ad352 28940aef510325c36ce2bc37817ae559aca334bd Chris Locke <chris.locke.jr@gmail.com> 1546530784 +0000	checkout: moving from add-delivery-configuration to master
+28940aef510325c36ce2bc37817ae559aca334bd 664a5ad10811fc180cb256b6f487201c66a9fd2d Chris Locke <chris.locke.jr@gmail.com> 1546530784 +0000	merge add-delivery-configuration: Merge made by the 'recursive' strategy.
